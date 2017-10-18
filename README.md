@@ -1,6 +1,6 @@
-## 2017fall_smile
+## 2017fall_smile 
 
-### Intro
+### Introduction
 
 In this project, we aim to accomplish real time facial emotion recognition and possibly move to facial emotion generation.
 
